@@ -1,4 +1,4 @@
 # programing
 This my first repository
 <br>
-Author -Kush Bhatt
+Author -Kush (Bhatt)
